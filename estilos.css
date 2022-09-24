@@ -1,0 +1,48 @@
+h1 {
+
+		text-align: center;
+    top: 70px;
+    margin: 0px;
+    font-size: 32px;
+}
+.hqbabes b {
+	    text-decoration: none;
+    display: inline-block;
+		text-align: center;
+    margin: 0;
+    padding: 0 0.27em 0.1em 0.05em !important;
+    height: 1.27em;
+    letter-spacing: -.2em;
+    border-radius: 0.12em;
+}
+.hqbabes b, nav a:hover, nav a.selected, #menu_btn:hover, #babes_nav a:hover, #babes_nav a.selected, .pics, #pages a:hover, #pages a.selected, #c_toplist p, #c_toplist a b, #c_toplist a:hover, #footer b:hover {
+    background: #FF5E99!important;
+}
+.hqbabes b, #menu_btn, nav a, #babes_nav a, .g b, .b b, .s b, .t b, .i b, .mpt b, .g a, .b a, .s a, .t a, .i a, .desc, .desc a, .slideshow, .pics, #pages a, #pages #count b, #c_toplist, #c_toplist a, .pplayer a, .pplayer ul, .pplayer .headline {
+    color: #fff;
+}
+.hqbabes b {
+    display: inline-block;
+    margin: 0;
+    padding: 0 0.27em 0.1em 0.05em !important;
+    height: 1.27em;
+    letter-spacing: -.2em;
+    border-radius: 0.12em;
+}
+.hqbabes b, #menu_btn, nav a, #babes_nav a, .g b, .b b, .s b, .t b, .i b, .mpt b, .g a, .b a, .s a, .t a, .i a, .desc, .desc a, .slideshow, .pics, #pages a, #pages #count b, #c_toplist, #c_toplist a, .pplayer a, .pplayer ul, .pplayer .headline {
+    color: #fff;
+}
+.hqbabes b, nav a:hover, nav a.selected, #menu_btn:hover, #babes_nav a:hover, #babes_nav a.selected, .pics, #pages a:hover, #pages a.selected, #c_toplist p, #c_toplist a b, #c_toplist a:hover, #footer b:hover {
+    background: #FF5E99!important;
+}
+user agent stylesheet
+b {
+    font-weight: bold;
+}
+.hqbabes {
+	 text-decoration: none;
+    font-weight: 700;
+    color: #000;
+    white-space: nowrap;
+		font-size: 2rem;
+}
